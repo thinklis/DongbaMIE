@@ -1,4 +1,4 @@
-# DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms
+# [DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms](https://arxiv.org/abs/2503.03644)
 
 <p align="center"><img src="./figures/fig1_dongba.jpg" alt="Image" width=60% ></p>
 
