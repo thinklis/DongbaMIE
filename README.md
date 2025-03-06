@@ -18,6 +18,13 @@
 <p align="center"><img src="./figures/fig2_dataset.jpg" alt="Image" width=80% ></p>
 
 
+## Project Overview
+This repository contains the following files:
+
+- **[generate_data_qwen2vl.py](./generate_data_qwen2vl.py)** for building qwen2-vl format data
+- **[gpt4o_vqa_test.py](./gpt4o_vqa_test.py)** for getting gpt4o and gemini test results
+- **[metric.py](./metric.py)** for performance evaluation
+
 
 ##  Semantic visualization result
 
