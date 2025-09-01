@@ -1,6 +1,6 @@
 # DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms
 
-<p align="center"><img src="./figures/fig1_dongba.png" alt="Image" width=60% ></p>
+<p align="center"><img src="./figures/fig1_dongba.png" alt="Image" width=50% ></p>
 
 <div align="center">
     <a href="https://arxiv.org/abs/2503.03644">📖<strong>arXiv</strong></a> | <a href="https://huggingface.co/datasets/thinklis/DongbaMIE">🤗<strong>Dataset</strong></a>
@@ -26,7 +26,7 @@
 
 ##  Constructing DongbaMIE Dataset
 
-<p align="center"><img src="./figures/fig2_dataset.png" alt="Image" width=80% ></p>
+<p align="center"><img src="./figures/fig2_dataset.png" alt="Image" width=60% ></p>
 
 
 ## Project Overview
