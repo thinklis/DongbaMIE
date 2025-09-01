@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff8c00;stop-opacity:1"></stop>
+      <stop offset="25%" style="stop-color:#28a745;stop-opacity:1"></stop>
+      <stop offset="50%" style="stop-color:#007bff;stop-opacity:1"></stop>
+      <stop offset="75%" style="stop-color:#800080;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#daa520;stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <!-- 去掉背景矩形，让背景透明 -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" font-weight="bold" fill="url(#grad1)">
+    🎉 DongbaMIE was accepted by EMNLP 2025 Findings 🎊
+  </text>
+</svg>

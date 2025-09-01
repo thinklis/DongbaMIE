@@ -6,11 +6,16 @@
     <a href="https://arxiv.org/abs/2503.03644">📖<strong>arXiv</strong></a> | <a href="https://huggingface.co/datasets/thinklis/DongbaMIE">🤗<strong>Dataset</strong></a>
 </div>
 
+
+<p align="center"">
+<img src="figures/dongbamie_emnlp2025.svg" alt="DongbaMIE Accepted!" width="600" height="75" />
+</p>
+
   
 ## Timeline
 
 
-<p align="left" style="font-size:16px;">
+<!-- <p align="left" style="font-size:16px;">
   🎉 
   <span style="background: linear-gradient(to right, #ff8c00, #28a745, #007bff, #800080, #daa520);
                -webkit-background-clip: text;
@@ -18,7 +23,8 @@
     [2025-08-21] DongbaMIE was accepted by EMNLP 2025 Findings
   </span> 
   🎊🥳
-</p>
+</p> -->
+
 
 📢 [2025-03-06] DongbaMIE dataset released.
 
