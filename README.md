@@ -1,6 +1,6 @@
 # DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms
 
-<p align="center"><img src="./figures/fig1_dongba.jpg" alt="Image" width=60% ></p>
+<p align="center"><img src="./figures/fig1_dongba.png" alt="Image" width=60% ></p>
 
 <div align="center">
     <a href="https://arxiv.org/abs/2503.03644">📖<strong>arXiv</strong></a> | <a href="https://huggingface.co/datasets/thinklis/DongbaMIE">🤗<strong>Dataset</strong></a>
@@ -9,13 +9,24 @@
   
 ## Timeline
 
+
+<p align="left" style="font-size:16px;">
+  🎉 
+  <span style="background: linear-gradient(to right, #ff8c00, #28a745, #007bff, #800080, #daa520);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    [2025-08-21] DongbaMIE was accepted by EMNLP 2025 Findings
+  </span> 
+  🎊🥳
+</p>
+
 📢 [2025-03-06] DongbaMIE dataset released.
 
 📢 [2025-03-05] Paper and repo released.  
 
 ##  Constructing DongbaMIE Dataset
 
-<p align="center"><img src="./figures/fig2_dataset.jpg" alt="Image" width=80% ></p>
+<p align="center"><img src="./figures/fig2_dataset.png" alt="Image" width=80% ></p>
 
 
 ## Project Overview
@@ -28,7 +39,7 @@ This repository contains the following files:
 
 ##  Semantic visualization result
 
-<p align="center"><img src="./figures/fig3_graph.jpg" alt="Image" width=60% ></p>
+<p align="center"><img src="./figures/fig3_graph.png" alt="Image" width=60% ></p>
 
 
 
@@ -39,10 +50,10 @@ This repository contains the following files:
 
 ## Result
 
-#### Results of the three models on the DongbaMIE dataset
+####  Overall Performance
 <p align="center"><img src="./figures/fig5_result1.png" alt="Image" width=100% ></p>
 
-#### Results of three models extracting four semantic dimensions of objects, actions, relations, and attributes simultaneously in a single inference
+#### The results of extracting the four semantic dimensions of objects, actions, relations and attributes simultaneously in a single reasoning
 <p align="center"><img src="./figures/fig5_result2.png" alt="Image" width=100% ></p>
 
 
