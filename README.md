@@ -69,13 +69,30 @@ This repository contains the following files:
 ## Citation
 If you find our project useful, please consider citing:
 ```
-@misc@misc{bi2025dongbamiemultimodalinformationextraction,
-      title={DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms}, 
-      author={Xiaojun Bi and Shuo Li and Ziyue Wang and Fuwen Luo and Weizheng Qiao and Lu Han and Ziwei Sun and Peng Li and Yang Liu},
-      year={2025},
-      eprint={2503.03644},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.03644}, 
+@inproceedings{bi-etal-2025-dongbamie,
+    title = "{D}ongba{MIE}: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms",
+    author = "Bi, Xiaojun  and
+      Li, Shuo  and
+      Xing, Junyao  and
+      Wang, Ziyue  and
+      Luo, Fuwen  and
+      Qiao, Weizheng  and
+      Han, Lu  and
+      Sun, Ziwei  and
+      Li, Peng  and
+      Liu, Yang",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.51/",
+    doi = "10.18653/v1/2025.findings-emnlp.51",
+    pages = "976--990",
+    ISBN = "979-8-89176-335-7"
 }
 ```
